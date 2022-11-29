@@ -2,64 +2,64 @@
   "users": [
     {
       "id": 1,
-      "name": "Chandra",
+      "name": "Harry Potter",
       "cost": 29,
-      "Publisher": "Visakhapatnam",
-      "genre": "horror-2fright",
-      "edition": "FSD"
+      "Publisher": "Penguin",
+      "genre": "horror-fright",
+      "edition": "2022"
     },
     {
       "id": 2,
-      "name": "Nrupul",
+      "name": "Harry Potter",
       "cost": 32,
-      "Publisher": "Vijayawada",
-      "genre": "horror-fright8",
-      "edition": "FSD"
+      "Publisher": "Penguin",
+      "genre": "horror-fright",
+      "edition": "2022"
     },    {
         "id": 3,
         "name": "a",
         "cost": 30,
         "Publisher": "abc",
         "genre": "horror-fright3",
-        "edition": "Frontend"
+        "edition": "2022"
       },
       {
         "id": 4,
         "name": "b",
         "cost": 32,
         "Publisher": "b",
-        "genre": "horror-fright5",
-        "edition": "Backend"
+        "genre": "horror-fright",
+        "edition": "2022"
       },{
         "id": 5,
         "name": "x",
         "cost": 25,
         "Publisher": "x",
-        "genre": "horror-fright6",
-        "edition": "Student"
+        "genre": "horror-fright",
+        "edition": "2022"
       },
       {
         "id": 6,
         "name": "y",
         "cost": 35,
         "Publisher": "y",
-        "genre": "horror-fright3",
-        "edition": "FSD"
+        "genre": "horror-fright",
+        "edition": "2022"
       },    {
           "id": 7,
           "name": "z",
           "cost": 22,
           "Publisher": "z",
-          "genre": "horror-fright8",
-          "edition": "Frontend"
+          "genre": "horror-fright",
+          "edition": "2022"
         },
         {
           "id": 8,
           "name": "xyz",
           "cost": 26,
           "Publisher": "xyz",
-          "genre": "horror-fright5",
-          "edition": "Backend"
+          "genre": "horror-fright",
+          "edition": "2022"
         }
   
   ]
