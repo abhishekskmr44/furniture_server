@@ -4,62 +4,62 @@
       "id": 1,
       "name": "Chandra",
       "cost": 29,
-      "place": "Visakhapatnam",
+      "Publisher": "Visakhapatnam",
       "genre": "WEB-21",
-      "profession": "FSD"
+      "edition": "FSD"
     },
     {
       "id": 2,
       "name": "Nrupul",
       "cost": 32,
-      "place": "Vijayawada",
+      "Publisher": "Vijayawada",
       "genre": "WEB-18",
-      "profession": "FSD"
+      "edition": "FSD"
     },    {
         "id": 3,
         "name": "a",
         "cost": 30,
-        "place": "abc",
+        "Publisher": "abc",
         "genre": "WEB-13",
-        "profession": "Frontend"
+        "edition": "Frontend"
       },
       {
         "id": 4,
         "name": "b",
         "cost": 32,
-        "place": "b",
+        "Publisher": "b",
         "genre": "WEB-15",
-        "profession": "Backend"
+        "edition": "Backend"
       },{
         "id": 5,
         "name": "x",
         "cost": 25,
-        "place": "x",
+        "Publisher": "x",
         "genre": "WEB-16",
-        "profession": "Student"
+        "edition": "Student"
       },
       {
         "id": 6,
         "name": "y",
         "cost": 35,
-        "place": "y",
+        "Publisher": "y",
         "genre": "WEB-13",
-        "profession": "FSD"
+        "edition": "FSD"
       },    {
           "id": 7,
           "name": "z",
           "cost": 22,
-          "place": "z",
+          "Publisher": "z",
           "genre": "WEB-18",
-          "profession": "Frontend"
+          "edition": "Frontend"
         },
         {
           "id": 8,
           "name": "xyz",
           "cost": 26,
-          "place": "xyz",
+          "Publisher": "xyz",
           "genre": "WEB-15",
-          "profession": "Backend"
+          "edition": "Backend"
         }
   
   ]
