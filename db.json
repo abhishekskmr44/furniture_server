@@ -5,7 +5,7 @@
       "name": "Chandra",
       "cost": 29,
       "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
+      "genre": "WEB-21",
       "profession": "FSD"
     },
     {
@@ -13,14 +13,14 @@
       "name": "Nrupul",
       "cost": 32,
       "place": "Vijayawada",
-      "batch_name": "WEB-18",
+      "genre": "WEB-18",
       "profession": "FSD"
     },    {
         "id": 3,
         "name": "a",
         "cost": 30,
         "place": "abc",
-        "batch_name": "WEB-13",
+        "genre": "WEB-13",
         "profession": "Frontend"
       },
       {
@@ -28,14 +28,14 @@
         "name": "b",
         "cost": 32,
         "place": "b",
-        "batch_name": "WEB-15",
+        "genre": "WEB-15",
         "profession": "Backend"
       },{
         "id": 5,
         "name": "x",
         "cost": 25,
         "place": "x",
-        "batch_name": "WEB-16",
+        "genre": "WEB-16",
         "profession": "Student"
       },
       {
@@ -43,14 +43,14 @@
         "name": "y",
         "cost": 35,
         "place": "y",
-        "batch_name": "WEB-13",
+        "genre": "WEB-13",
         "profession": "FSD"
       },    {
           "id": 7,
           "name": "z",
           "cost": 22,
           "place": "z",
-          "batch_name": "WEB-18",
+          "genre": "WEB-18",
           "profession": "Frontend"
         },
         {
@@ -58,7 +58,7 @@
           "name": "xyz",
           "cost": 26,
           "place": "xyz",
-          "batch_name": "WEB-15",
+          "genre": "WEB-15",
           "profession": "Backend"
         }
   
