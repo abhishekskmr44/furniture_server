@@ -5,7 +5,7 @@
       "name": "Harry Potter",
       "cost": 29,
       "Publisher": "Penguin",
-      "genre": "horror-fright",
+      "genre": "Horror",
       "edition": "2022"
     },
     {
@@ -13,52 +13,52 @@
       "name": "Harry Potter",
       "cost": 32,
       "Publisher": "Penguin",
-      "genre": "horror-fright",
+      "genre": "Horror",
       "edition": "2022"
     },    {
         "id": 3,
-        "name": "a",
+        "name": "BATMAN",
         "cost": 30,
-        "Publisher": "abc",
-        "genre": "horror-fright3",
+        "Publisher": "Penguin",
+        "genre": "Horror",
         "edition": "2022"
       },
       {
         "id": 4,
-        "name": "b",
+        "name": "Harry Potter",
         "cost": 32,
-        "Publisher": "b",
-        "genre": "horror-fright",
+        "Publisher": "Penguin",
+        "genre": "Horror",
         "edition": "2022"
       },{
         "id": 5,
-        "name": "x",
+        "name": "Harry Potter",
         "cost": 25,
-        "Publisher": "x",
-        "genre": "horror-fright",
+        "Publisher": "Penguin",
+        "genre": "Horror",
         "edition": "2022"
       },
       {
         "id": 6,
-        "name": "y",
+        "name": "Harry Potter",
         "cost": 35,
-        "Publisher": "y",
-        "genre": "horror-fright",
+        "Publisher": "Penguin",
+        "genre": "Horror",
         "edition": "2022"
       },    {
           "id": 7,
-          "name": "z",
+          "name": "Harry Potter",
           "cost": 22,
-          "Publisher": "z",
-          "genre": "horror-fright",
+          "Publisher": "Penguin",
+          "genre": "Horror",
           "edition": "2022"
         },
         {
           "id": 8,
-          "name": "xyz",
+          "name": "Harry Potter",
           "cost": 26,
-          "Publisher": "xyz",
-          "genre": "horror-fright",
+          "Publisher": "Penguin",
+          "genre": "horror",
           "edition": "2022"
         }
   
